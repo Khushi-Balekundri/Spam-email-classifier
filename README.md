@@ -12,11 +12,12 @@ This project develops an automated spam detection system using a Naïve Bayes cl
 
 ## Requirement Specification
 Any normal computer with a web browser and internet connection.
+
 Software Requirements:
-•	Python 3.10 for the programming language.
-•	Jupyter Notebook as python IDE.
-•	Pandas to import data.
-•	Numpy for the storing the keywords as arrays.
-•	Scikit-learn for model selection.
-•	Pickle to store trained model and load and deploy it.
-•	Streamlit for creating a webpage
+Python 3.10 for the programming language.
+Jupyter Notebook as python IDE.
+Pandas to import data.
+Numpy for the storing the keywords as arrays.
+Scikit-learn for model selection.
+Pickle to store trained model and load and deploy it.
+Streamlit for creating a webpage
